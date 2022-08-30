@@ -17,7 +17,7 @@
     "@slack/bolt": "^1.2.0",
     "axios": "^0.21.2",
     "moment": "^2.29.4",
-    "moment-timezone": "^0.5.26",
+    "moment-timezone": "^0.5.35",
     "simple-oauth2": "^2.4.0",
     "uuid": "^3.3.3"
   }
